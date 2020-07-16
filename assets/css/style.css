@@ -12,7 +12,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* refactored header class to element */
+/* refactored header class ›› element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,20 +20,20 @@ header {
     color: #ffffff;
 }
 
-/* refactored header class to element */
+/* refactored header class ›› element */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* refactored header class to element */
+/* refactored header class ›› element */
 header h1 .seo {
     color: #d9dcd6;
 }
 
 /*
-refactored header class to element
-refactored div tag to nav element
+refactored header class ›› element
+refactored div tag ›› nav element
 */
 header nav {
     padding-top: 15px;
@@ -44,16 +44,16 @@ header nav {
 }
 
 /*
-refactored header class to element
-refactored div tag to nav element
+refactored header class ›› element
+refactored div tag ›› nav element
 */
 header nav ul {
     list-style-type: none;
 }
 
 /*
-refactored header class to element
-refactored div tag to nav element
+refactored header class ›› element
+refactored div tag ›› nav element
 */
 header nav ul li {
     display: inline-block;
@@ -69,7 +69,7 @@ p {
     font-size: 16px;
 }
 
-/* refactored hero class to figure element */
+/* refactored hero class ›› figure element */
 figure {
     height: 800px;
     width: 100%;
@@ -89,6 +89,7 @@ figure {
     margin-left: 25px;
 }
 
+/* refactored content class ›› section element */
 section {
     width: 75%;
     display: inline-block;
