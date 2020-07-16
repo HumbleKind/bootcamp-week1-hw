@@ -12,6 +12,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* refactored header class to element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,15 +20,21 @@ header {
     color: #ffffff;
 }
 
+/* refactored header class to element */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* refactored header class to element */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/*
+refactored header class to element
+refactored div tag to nav element
+*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,10 +43,18 @@ header nav {
     font-size: 20px;
 }
 
+/*
+refactored header class to element
+refactored div tag to nav element
+*/
 header nav ul {
     list-style-type: none;
 }
 
+/*
+refactored header class to element
+refactored div tag to nav element
+*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -54,6 +69,7 @@ p {
     font-size: 16px;
 }
 
+/* refactored hero class to figure element */
 figure {
     height: 800px;
     width: 100%;
