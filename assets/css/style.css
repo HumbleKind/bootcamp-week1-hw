@@ -89,8 +89,8 @@ figure {
     margin-left: 25px;
 }
 
-/* refactored content class ›› section element */
-section {
+/* refactored content class ›› main element */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
