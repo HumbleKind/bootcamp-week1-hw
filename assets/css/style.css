@@ -114,15 +114,19 @@ article {
     color: #ffffff;
 }
 
+/* removed redundant style attributes/ section ...
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
+/* removed redundant style attributes/ section ...
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
 /* refactored div h3 class ›› article h3 element */
 article h3 {
@@ -130,15 +134,19 @@ article h3 {
     text-align: center;
 }
 
+/* removed redundant style attributes/ section ...
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
+/* removed redundant style attributes/ section ...
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
 /* refactored div img class ›› article img element */
 article img {
@@ -147,17 +155,21 @@ article img {
     max-width: 150px;
 }
 
+/* removed redundant style attributes/ section ...
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+*/
 
+/* removed redundant style attributes/ section ...
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+*/
 
 /* refactored div class ›› section element */
 section {
