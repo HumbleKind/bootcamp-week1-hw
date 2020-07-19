@@ -176,6 +176,7 @@ section {
 }
 */
 
+/* removed redundant style attributes/ section
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -184,6 +185,7 @@ section {
     background-color: #0072bb;
     color: #ffffff;
 }
+*/
 
 /* refactored div img class ›› section element */
 section img {
