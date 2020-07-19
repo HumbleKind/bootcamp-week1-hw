@@ -165,7 +165,7 @@ section {
     color: #ffffff;
 }
 
-/* removed redundant style attributes/ section
+/* removed redundant style attributes/ section ...
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -176,7 +176,7 @@ section {
 }
 */
 
-/* removed redundant style attributes/ section
+/* removed redundant style attributes/ section ...
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -192,13 +192,17 @@ section img {
     max-height: 200px;
 }
 
+/* removed redundant style attributes/ section ...
 .online-reputation-management img {
     max-height: 200px;
 }
+*/
 
+/* removed redundant style attributes/ section ...
 .social-media-marketing img {
     max-height: 200px;
 }
+*/
 
 /* refactored div h2 class ›› section element */
 section h2 {
