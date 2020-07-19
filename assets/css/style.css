@@ -108,7 +108,8 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* refactored div class ›› article element */
+article {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -123,7 +124,8 @@ aside {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/* refactored div h3 class ›› article h3 element */
+article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -138,7 +140,8 @@ aside {
     text-align: center;
 }
 
-.benefit-lead img {
+/* refactored div img class ›› article img element */
+article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
