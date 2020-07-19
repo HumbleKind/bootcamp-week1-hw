@@ -155,7 +155,8 @@ main {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* refactored div class ›› section element */
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -182,7 +183,8 @@ main {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* refactored div img class ›› section element */
+section img {
     max-height: 200px;
 }
 
@@ -194,7 +196,8 @@ main {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* refactored div h2 class ›› section element */
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
